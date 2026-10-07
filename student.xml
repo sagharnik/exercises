@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <studentId>1001</studentId>
+  <name>Ali</name>
+  <family>Ahmadi</family>
+  <age>20</age>
+  <major>Computer Engineering</major>
+  <gpa>17.5</gpa>
+</student>
