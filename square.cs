@@ -1,0 +1,7 @@
+public class Square
+{
+    public double Side { get; set; }
+
+    public double CalculateArea() { return Side * Side; }
+    public double CalculatePerimeter() { return 4 * Side; }
+}
